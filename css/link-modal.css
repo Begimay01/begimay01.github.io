@@ -1,0 +1,31 @@
+body {
+    background: #00000057;
+
+}.create {
+    color: white;
+    font-size: 18px;
+    background: #7FC3F5;
+    
+    padding: 10px 29.5px;
+    
+    border-radius: 7px;
+    border: 1px solid black;
+    
+}
+
+.btn-create {
+    width: 135px;
+
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;     
+}
+
+.modal-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    
+    margin-bottom: 25.5px;
+}

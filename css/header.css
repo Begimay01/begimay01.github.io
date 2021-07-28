@@ -1,0 +1,26 @@
+.title {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between ;
+    height: 64px;
+    background: #3281F8;
+    box-shadow: 0px 4px 4px 0px #00000040;
+
+}
+
+.img-logo {
+    margin-top: 1px;
+    margin-left: 14px;
+}
+
+.logo-out {
+    color: white;
+    background: #3281F8;
+    border: none;
+    cursor: pointer;
+    
+    font-size: 18px;
+    font-family: 'Quando', serif;
+
+    margin : 20px 39px;
+}
